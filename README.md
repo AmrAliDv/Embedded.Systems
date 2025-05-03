@@ -1,9 +1,3 @@
-# Hello, I'm Amr! 👋
+# Hello, I'm Amr! 
 
-I graduated in 2023 with a degree in Electrical Engineering and have a strong enthusiasm for embedded systems and IoT technologies. I'm passionate about exploring innovative solutions and building projects that integrate hardware and software.
-
-## About Me
-- 🎓 Degree: Electrical Engineering (2023)
-- 💡 Interests: Embedded Systems, Model Based, Motor Control, and BMS
-- You can contact me at: [amralielsayed47@email.com](mailto:your.email@example.com)
-
+I graduated in 2023 with a degree in Electrical Engineering. I have expertise in Embedded Systems, Model-Based Design, Battery Management Systems (BMS), and Power Electronics. I focus on developing efficient and innovative Hardware-Software solutions.
